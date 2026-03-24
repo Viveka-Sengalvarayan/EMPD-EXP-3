@@ -47,6 +47,10 @@
 
 ## Output:
 
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-EXP-3/blob/main/12.png?raw=true)
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-EXP-3/blob/main/13.png?raw=true)
+![image](https://github.com/Viveka-Sengalvarayan/EMPD-EXP-3/blob/main/14.png?raw=true)
+
 ### Name: VIVEKA S
 ### Register Number:212225100059
 
